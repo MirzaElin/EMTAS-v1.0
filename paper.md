@@ -8,10 +8,10 @@ tags:
   - Python
 authors:
   - name: Mirza Niaz Zaman Elin
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0001-9577-7821
     affiliation: 1
 affiliations:
-  - name: Kharkiv National Medical University, Kharkiv, Ukraine
+  - name: AMAL Youth and Family Centre, Canada
     index: 1
 date: 2025-09-05
 ---
