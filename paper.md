@@ -11,7 +11,7 @@ authors:
     orcid: 0000-0001-9577-7821
     affiliation: 1
 affiliations:
-  - name: AMAL Youth and Family Centre, Canada
+  - name: AMAL Youth and Family Centre, St. John's, NL, Canada
     index: 1
 date: 2025-09-05
 ---
