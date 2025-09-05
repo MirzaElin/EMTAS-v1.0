@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "EMTAS: Evaluation Metrics–Triad Analysis System"
+message: "If this software is helpful, please cite it as below."
+type: software
+authors:
+  - family-names: Elin
+    given-names: Mirza Niaz Zaman
+version: "1.0.0"
+date-released: "2025-09-05"
+preferred-citation:
+  type: article
+  title: "EMTAS: Evaluation Metrics–Triad Analysis System for reliability and binary classification"
+  authors:
+    - family-names: Elin
+      given-names: Mirza Niaz Zaman
+  journal: "Journal of Open Source Software"
+  year: 2025
+  start: 1
+  end: 5
